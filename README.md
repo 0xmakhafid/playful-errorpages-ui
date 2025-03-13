@@ -9,4 +9,4 @@ Offers a fun experience even when a page is not found or an error occurs.
 HTML
 CSS
 JavaScript
-# With Playful Error Pages, you can make your site's error pages more engaging and interactive!
+With Playful Error Pages, you can make your site's error pages more engaging and interactive!
